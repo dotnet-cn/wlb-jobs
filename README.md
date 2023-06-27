@@ -16,3 +16,4 @@
 - 医科达 Elekta - 上海
 - 默克集團 Merck Group - 上海
 - 药明康德 WuXi AppTec - 上海
+- 美敦力 Medtronic - 上海
