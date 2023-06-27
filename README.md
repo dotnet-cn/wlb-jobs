@@ -10,4 +10,9 @@
 - C.H Robinson - 上海
 - CSTC 花旗金融 - 上海/蒙特利尔
 - Lego 乐高集团 - 上海/哥本哈根
-- 
+- Dow Chemical - 上海
+- 罗氏 Roche - 上海/Rotkreuz
+- 赛诺菲 Sanofi
+- 医科达 Elekta - 上海
+- 默克集團 Merck Group - 上海
+- 药明康德 WuXi AppTec - 上海
