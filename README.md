@@ -9,4 +9,5 @@
 - PlayerAuctions - 上海
 - C.H Robinson - 上海
 - CSTC 花旗金融 - 上海/蒙特利尔
-
+- Lego 乐高集团 - 上海/哥本哈根
+- 
